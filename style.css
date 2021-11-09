@@ -1,12 +1,29 @@
 
-.navbar{
+ /* .navbar{
     margin: 0%;
     border: 2px solid whitesmoke;
     padding: 20px;
 }
 .solutioncontents{
-    
-    width: fit-content;
     cursor: pointer;
-   
+} */
+body{
+    margin: 0%;
+ 
 }
+
+
+.nav{
+    background-color: black;
+    padding: 10px;
+    
+}
+
+.contents{
+    padding: 10px;
+    color: white;
+     text-decoration: none ;
+     text-align: center;
+     
+    }
+
